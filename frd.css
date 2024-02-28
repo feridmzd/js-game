@@ -1,0 +1,16 @@
+div{
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+}
+button{
+    position: absolute;
+    height: 100px;
+}
+body{
+    position: relative;
+}
+.sol{
+    height: 50px;
+}
